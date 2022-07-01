@@ -1,4 +1,4 @@
-name: MLflow-app
+name: W2W_Similarity-app
 
 conda_env: conda.yaml
 
